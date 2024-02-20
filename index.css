@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+    float: left;
+    padding-left: 40px;
+    padding: 30px;
+}
+p{
+    padding: 100px;
+    font-size: xx-large;
+}
+li:hover{
+    text-decoration: underline;
+    color: orangered;
+    cursor: pointer;
+}
